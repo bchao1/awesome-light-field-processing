@@ -1,14 +1,20 @@
-# Awesome Light Field Synthesis
+# Awesome Light Field Processing
 
-A curated list of light field synthesis and light field reconstruction works.
+A curated list of light field processing works. 
+
+**Light field processing** here refers to (but is not limited to) the following types of works:
+- Light field reconstruction / synthesis
+- Light field spatial super resolution
+- Light field depth estimation
+- etc ...
 
 ## Table of Contents
-- Learning-based Methods
-- Traditional Methods
-- Light Field Spatial Resolution Works
-- Other Related Works
+- Light field synthesis
+- Light field spatial resolution 
+- Light field depth estimation
 
-## Learning-based Methods
+## Light field synthesis
+### Learning-based Methods
 
 |Paper|Link|Conference/Journal|Code|Notes|
 |--|--|--|--|--|
@@ -26,7 +32,7 @@ A curated list of light field synthesis and light field reconstruction works.
 
 ---
 
-## Traditional Methods
+### Traditional Methods
 
 |Paper|Link|Conference/Journal|Code|Notes|
 |--|--|--|--|--|
