@@ -19,6 +19,7 @@ A curated list of light field synthesis and light field reconstruction works.
 |Fast Light Field Reconstruction With Deep Coarse-To-Fine Modeling of Spatial-Angular Clues|[Link](https://openaccess.thecvf.com/content_ECCV_2018/papers/Henry_W._F._Yeung_Fast_Light_Field_ECCV_2018_paper.pdf)|IEEE European Conference on Computer Vision (ECCV) 2018|||
 |LGFAN: 4D Light Field Synthesis from a Single RGB Image|[Link](https://dl.acm.org/doi/10.1145/3366371)|ACM Transactions on Multimedia Computing, Communications, and Applications 2020|||
 |Learning to Synthesize a 4D RGBD Light Field from a Single Image|[Link](https://arxiv.org/abs/1708.03292)|IEEE International Conference on Computer Vision (ICCV) 2017|||
+|Light Field Reconstruction Using Deep Convolutional Network on EPI|[Link](https://ieeexplore.ieee.org/document/8099661)|IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2017|||
 |Local Light Field Fusion: Practical View Synthesis with Prescriptive Sampling Guidelines|[Link](https://arxiv.org/abs/1905.00889)|ACM SIGGRAPH 2019|||
 |Learning-Based View Synthesis for Light Field Cameras|[Link](https://cseweb.ucsd.edu/~viscomp/projects/LF/papers/SIGASIA16/)|ACM SIGGRAPH Asia 2016|||
 
