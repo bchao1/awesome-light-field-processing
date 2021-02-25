@@ -36,5 +36,11 @@ A curated list of light field processing works.
 
 |Paper|Link|Conference/Journal|Code|Notes|
 |--|--|--|--|--|
-|Light Field Reconstruction Using Sparsity in the Continuous Fourier Domain|[Link](https://dl.acm.org/doi/10.1145/2682631)|ACM Transactions on Graphics (ToG)|||
+|Learning Sheared EPI Structure for Light Field Reconstruction|[Link](https://ieeexplore.ieee.org/document/8628995/)|IEEE Transactions on Image Processing (TIP) 2019|||
+|Fast: Flow-Assisted Shearlet Transform for Densely-Sampled Light Field Reconstruction|[Link](https://ieeexplore.ieee.org/document/8803436/)|IEEE International Conference on Image Processing (ICIP) 2019|||
 |Light Field Reconstruction Using Shearlet Transform|[Link](https://ieeexplore.ieee.org/document/7817742)|IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2018|||
+|Light Field Reconstruction Using Sparsity in the Continuous Fourier Domain|[Link](https://dl.acm.org/doi/10.1145/2682631)|ACM Transactions on Graphics (ToG) 2014|||
+
+## Light field super resolution
+
+## Light field depth estimation
