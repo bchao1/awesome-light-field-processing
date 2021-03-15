@@ -10,8 +10,9 @@ A curated list of light field processing works.
 
 ## Table of Contents
 - Light field synthesis
-- Light field spatial resolution 
+- Light field spatial super-resolution 
 - Light field depth estimation
+- Light field compression
 
 ## Light field synthesis
 ### Learning-based Methods
@@ -41,7 +42,7 @@ A curated list of light field processing works.
 |Light Field Reconstruction Using Shearlet Transform|[Link](https://ieeexplore.ieee.org/document/7817742)|IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2018|||
 |Light Field Reconstruction Using Sparsity in the Continuous Fourier Domain|[Link](https://dl.acm.org/doi/10.1145/2682631)|ACM Transactions on Graphics (ToG) 2014|||
 
-## Light field super resolution
+## Light field spatial super resolution
 
 ## Light field depth estimation
 |Paper|Link|Conference/Journal|Code|Notes|
