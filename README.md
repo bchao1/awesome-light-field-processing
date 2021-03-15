@@ -28,6 +28,7 @@ A curated list of light field processing works.
 |LGFAN: 4D Light Field Synthesis from a Single RGB Image|[Link](https://dl.acm.org/doi/10.1145/3366371)|ACM Transactions on Multimedia Computing, Communications, and Applications 2020|||
 |Learning to Synthesize a 4D RGBD Light Field from a Single Image|[Link](https://arxiv.org/abs/1708.03292)|IEEE International Conference on Computer Vision (ICCV) 2017|||
 |Light Field Reconstruction Using Deep Convolutional Network on EPI|[Link](https://ieeexplore.ieee.org/document/8099661)|IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2017|||
+|Multi-parallax views synthesis for three- dimensional light-field display using unsupervised CNN|[Link](https://www.osapublishing.org/DirectPDFAccess/C5368AF3-05FF-4CB3-9684C76B50EB0572_398927/oe-26-21-27585.pdf?da=1&id=398927&seq=0&mobile=no)|Optics Express 2017|||
 |Local Light Field Fusion: Practical View Synthesis with Prescriptive Sampling Guidelines|[Link](https://arxiv.org/abs/1905.00889)|ACM SIGGRAPH 2019|||
 |Learning-Based View Synthesis for Light Field Cameras|[Link](https://cseweb.ucsd.edu/~viscomp/projects/LF/papers/SIGASIA16/)|ACM SIGGRAPH Asia 2016|||
 
