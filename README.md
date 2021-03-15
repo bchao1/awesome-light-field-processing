@@ -47,3 +47,4 @@ A curated list of light field processing works.
 |Paper|Link|Conference/Journal|Code|Notes|
 |--|--|--|--|--|
 |Unsupervised Monocular Depth Estimation From Light Field Image|[Link](https://ieeexplore.ieee.org/abstract/document/8858033)|IEEE Transactions on Image Processing (TIP) 2020|||
+|Unsupervised Depth Estimation from Light Field Using a Convolutional Neural Network|[Link](https://ieeexplore.ieee.org/abstract/document/8490980)|IEEE International Conference on 3D Vision (3DV) 2018|||
