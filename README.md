@@ -21,6 +21,7 @@ A curated list of light field processing works.
 |--|--|--|--|--|
 |Learning Fused Pixel and Feature-based View Reconstructions for Light Fields|[Link](https://openaccess.thecvf.com/content_CVPR_2020/html/Shi_Learning_Fused_Pixel_and_Feature-Based_View_Reconstructions_for_Light_Fields_CVPR_2020_paper.html)|IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020|||
 |High-dimensional Dense Residual Convolutional Neural Network for Light Field Reconstruction|[Link](https://arxiv.org/abs/1910.01426)|IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2019|||
+|4D Temporally Coherent Light Field Video|[Link](https://core.ac.uk/download/pdf/131229091.pdf)|IEEE International Conference on 3D Vision (3DV) 2017|||
 |Dense Light Field Reconstruction From Sparse Sampling Using Residual Network|[Link](https://arxiv.org/abs/1806.05506)|Asian Conference on Computer Vision (ACCV) 2018|||
 |End-to-end View Synthesis for Light Field Imaging with Pseudo 4DCNN|[Link](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yunlong_Wang_End-to-end_View_Synthesis_ECCV_2018_paper.pdf)|IEEE European Conference on Computer Vision (ECCV) 2018|||
 |Fast Light Field Reconstruction With Deep Coarse-To-Fine Modeling of Spatial-Angular Clues|[Link](https://openaccess.thecvf.com/content_ECCV_2018/papers/Henry_W._F._Yeung_Fast_Light_Field_ECCV_2018_paper.pdf)|IEEE European Conference on Computer Vision (ECCV) 2018|||
