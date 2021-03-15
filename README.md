@@ -44,3 +44,6 @@ A curated list of light field processing works.
 ## Light field super resolution
 
 ## Light field depth estimation
+|Paper|Link|Conference/Journal|Code|Notes|
+|--|--|--|--|--|
+|Unsupervised Monocular Depth Estimation From Light Field Image|[Link](https://ieeexplore.ieee.org/abstract/document/8858033)|IEEE Transactions on Image Processing (TIP) 2020|||
